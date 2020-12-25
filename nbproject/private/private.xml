@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/actions/DisciplineManagementAction.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/actions/IBaseAction.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/services/LessonQuestionService.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/LessonQuestionDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/UserInfoDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/lessonManagement.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/LessonDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/services/MajorService.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/actions/LessonManagementAction.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/createTest.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/MajorDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/constants/DepartmentConstant.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/disciplineManagement.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/login.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/TestDetailDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/editQA.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/RoleDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/services/QuestionService.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/addLesson.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/services/AnswerService.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/services/TestService.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/shoppingCartQuestion.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/AnswerDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/DisciplineLessonDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/actions/QuestionManagementAction.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/helpers/CodeHelper.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/helpers/DbHelper.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/actions/AddLessonAction.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/services/DisciplineService.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/actions/AddQuestionAction.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/constants/CodeConstant.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/questionManagement.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/services/LessonService.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/services/DisciplineLessonService.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/actions/TestManagementAction.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/student.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/actions/ManagementAction.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/TestDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/struts.xml</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/services/IBaseService.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/shoppingCartLesson.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/DisciplineDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/services/UserInfoService.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/admin.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/addQuestion.jsp</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/actions/LoginAction.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/src/java/huynl/dtos/QuestionDTO.java</file>
+            <file>file:/C:/Users/Huy%20Nguyen/Documents/NetBeansProjects/Discipline_Management/web/notFound.jsp</file>
+        </group>
+    </open-files>
+</project-private>

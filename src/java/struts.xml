@@ -1,0 +1,18 @@
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <!-- Configuration for the default package. -->
+    <constant name="struts.enable.SlashesInActionNames" value="true"/>
+    <package name="default" extends="struts-default" namespace="/">
+        <action name="">
+            <result>login.jsp</result>
+        </action>
+        <action name="manage" class="huynl.actions.ManagementAction">
+            <result name="disciplineManagement" type="redirect">disciplineManagement.jsp</result>
+            <result name="lessonManagement" type="redirect">lessonManagement.jsp</result>
+            <result name="questionManagement" type="redirect">questionManagement.jsp</result>
+        </action>
+    </package>
+</struts>
